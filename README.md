@@ -1,4 +1,4 @@
-# SAHAYAK AI (सहायक AI)
+# SAHAYAK AI 
 > **“Your Knowledge. Your AI. Your Device.”**  
 > Privacy-first, Multimodal, On-Device AI Study Companion for Snapdragon-Powered PCs.
 
