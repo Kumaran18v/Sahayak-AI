@@ -33,3 +33,6 @@ Thumbs.db
 
 # Large zip files
 *.zip
+
+# Stitch design files
+stitch_sahayak_ai_study_companion/
